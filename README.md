@@ -9,7 +9,7 @@ Data Structures
 ### Arrays
 
 ### Graphs
-- [ ] A*
+- [x] A*
 - [ ] BFS
 - [ ] DFS
 - [ ] Search a maze
