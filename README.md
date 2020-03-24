@@ -1,4 +1,5 @@
 Coding exercises of fundamental Data Structures & Algorithms
+Inspired by Tiep Vu (machinelearningcoban).
 
 Data Structures
 ---------------
@@ -15,3 +16,5 @@ Data Structures
 - [ ] Compute the LCA when nodes have parent pointers
 - [ ] Sum the root-to-leaf paths in a binary tree
 - [ ] Reconstruct a binary tree from traversal data
+
+### Heaps
