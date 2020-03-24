@@ -1,3 +1,5 @@
+# follow PEP8 coding style
+
 from binary_tree_base import Binary_Tree_Node
 import collections
 
@@ -42,6 +44,7 @@ def main():
     tree = Binary_Tree_Node(2)
     tree.left = Binary_Tree_Node(3)
     tree.left.left = Binary_Tree_Node(3)
+    tree.left.left.left = Binary_Tree_Node(5)
     assert not is_binary_tree_balanced(tree)
     print(is_binary_tree_balanced(tree))
     print(tree)
