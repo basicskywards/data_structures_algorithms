@@ -1,0 +1,6 @@
+a
+ac, ab, ad
+ab, acf, ad, ace
+acf, abe, ad, ace
+acf, abe, ad
+acf
