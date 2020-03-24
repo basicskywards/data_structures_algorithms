@@ -1,4 +1,5 @@
-Coding exercises of fundamental Data Structures & Algorithms
+Coding exercises of fundamental Data Structures & Algorithms.
+
 Inspired by EPI book & Tiep Vu (machinelearningcoban).
 
 
@@ -27,7 +28,7 @@ Data Structures
 ### Binary Trees
 - [x] Binary tree height-balanced checking
 - [ ] Compute the lowest common ancestor (LCA) in a binary trees
-- [ ] Compute the LCA when nodes have parent pointers
+- [x] Compute the LCA when nodes have parent pointers
 - [ ] Sum the root-to-leaf paths in a binary tree
 - [ ] Reconstruct a binary tree from traversal data
 
