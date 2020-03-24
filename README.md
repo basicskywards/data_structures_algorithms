@@ -2,6 +2,10 @@ Coding exercises of fundamental Data Structures & Algorithms.
 
 Inspired by EPI book & Tiep Vu (machinelearningcoban).
 
+Follow:
+- [PEDAC Coding Problem Solving](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
+- [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
+
 
 Data Structures
 ---------------
