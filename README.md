@@ -47,11 +47,14 @@ Data Structures
 - [ ] Remove the k-th last element from a lsit
 
 ### Binary Trees
+- [x] Binary tree traversal (preorder, inorder, postorder)
 - [x] Binary tree height-balanced checking
 - [ ] Compute the lowest common ancestor (LCA) in a binary trees
 - [x] Compute the LCA when nodes have parent pointers
 - [ ] Sum the root-to-leaf paths in a binary tree
-- [ ] Reconstruct a binary tree from traversal data
+- [x] Reconstruct a binary tree from traversal data
+- [x] Test if a binary tree is symmetric
+
 
 ### Heaps
 - [ ] Merge sorted files
