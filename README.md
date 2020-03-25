@@ -59,7 +59,7 @@ Data Structures
 ### Heaps
 - [ ] Merge sorted files
 - [ ] Sort an increasing-decreasing array
-- [ ] Compute the median of online data
+- [x] Compute the median of online data
 - [ ] Compute the k largest elements in a max-heap
 - [ ] Compute the k closest stars
 
