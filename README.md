@@ -57,10 +57,10 @@ Data Structures
 
 
 ### Heaps
-- [ ] Merge sorted files
+- [x] Merge sorted files
 - [ ] Sort an increasing-decreasing array
 - [x] Compute the median of online data
-- [ ] Compute the k largest elements in a max-heap
+- [x] Compute the k largest elements in a max-heap
 - [ ] Compute the k closest stars
 
 ### Hash Tables
