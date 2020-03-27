@@ -72,7 +72,7 @@ Data Structures
 - [ ] Find the smallest subarray covering all values
 
 ### Binary Search Trees
-- [ ] Test if a binary tree satifies the BST property
+- [x] Test if a binary tree satifies the BST property
 - [ ] Find the first key greater than a given value in a BST
 - [ ] Find the k largest elements in a BST
 - [ ] Reconstruct a BST from traversal data
