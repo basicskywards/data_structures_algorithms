@@ -16,7 +16,7 @@ Data Structures
 - [ ] Delete duplicates from a sorted array
 - [ ] Buy & sell a stock once
 - [ ] Permute elements of an array
-- [ ] Sample offline data
+- [x] Sample offline data
 - [ ] Sample online data
 - [ ] The Sodoku checker problem
 - [ ] Compute the spiral ordering of a 2D array
