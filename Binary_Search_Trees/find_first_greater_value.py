@@ -6,6 +6,7 @@ from binary_tree_base import Binary_Tree_Node
 
 
 def find_first_greater_than_k(tree, k):
+    '''Time complexity O(h) & Space complexity O(1)'''
     subtree = tree
     candidate_temp = None
     while subtree:
