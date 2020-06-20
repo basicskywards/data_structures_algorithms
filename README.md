@@ -73,7 +73,7 @@ Data Structures
 
 ### Binary Search Trees
 - [x] Test if a binary tree satifies the BST property
-- [ ] Find the first key greater than a given value in a BST
+- [x] Find the first key greater than a given value in a BST
 - [ ] Find the k largest elements in a BST
 - [ ] Reconstruct a BST from traversal data
 - [ ] Add credits
